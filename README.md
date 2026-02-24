@@ -1,4 +1,5 @@
 # K_MarketProject
+<img width="1881" height="920" alt="image" src="https://github.com/user-attachments/assets/7e37b28a-d08e-461f-96df-9d945ca0cb02" />
 ## 📌 프로젝트 개요
 
 | 구분 | 내용 |
@@ -27,5 +28,3 @@
 |------|------|
 | 2025.10.13 ~ 10.22 | 개발 진행 (총 40시간) |
 | 2025.10.22 14:00 | 프로젝트 발표 |
-
-<img width="1881" height="920" alt="image" src="https://github.com/user-attachments/assets/7e37b28a-d08e-461f-96df-9d945ca0cb02" />
